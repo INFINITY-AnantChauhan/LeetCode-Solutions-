@@ -58,3 +58,7 @@ one lookup (avoids double lookup vs `seen.count() + seen[]`).
 - Make sure to insert `nums[i]` **after** the complement check — otherwise a
   single element could match itself (e.g. `nums = [3,3], target = 6` would
   wrongly match index 0 with itself on the first iteration).
+
+
+## LeetCode Screenshot
+<img width="1917" height="872" alt="image" src="https://github.com/user-attachments/assets/78ccd0eb-46fd-4fb7-a23b-3172c8318761" />
