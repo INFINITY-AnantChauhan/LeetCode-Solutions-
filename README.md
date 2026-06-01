@@ -31,10 +31,10 @@ leetcode-solutions/
 
 | Difficulty | Solved | Goal | Progress |
 |------------|--------|------|----------|
-| 🟢 Easy    | 0      | 200  | ░░░░░░░░░░ 0% |
+| 🟢 Easy    | 1      | 200  | ░░░░░░░░░░ 0.5% |
 | 🟡 Medium  | 0      | 120  | ░░░░░░░░░░ 0% |
 | 🔴 Hard    | 0      | 20   | ░░░░░░░░░░ 0% |
-| **Total**  | **0**  | **340** | — |
+| **Total**  | **1**  | **340** | — |
 
 ---
 
@@ -42,7 +42,7 @@ leetcode-solutions/
 
 | Topic              | Easy | Medium | Hard | Notes |
 |--------------------|------|--------|------|-------|
-| Arrays             | 0    | 0      | 0    |       |
+| Arrays             | 1    | 0      | 0    |       |
 | Strings            | 0    | 0      | 0    |       |
 | HashMap / HashSet  | 0    | 0      | 0    |       |
 | Two Pointers       | 0    | 0      | 0    |       |
@@ -62,7 +62,7 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Topic | Time | Space | Date |
 |---|-------|------------|-------|------|-------|------|
-| [1](https://leetcode.com/problems/two-sum/) | Two Sum | 🟢 Easy | HashMap | O(n) | O(n) | — |
+| [1](https://leetcode.com/problems/two-sum/) | Two Sum | 🟢 Easy | HashMap | O(n) | O(n) | 1st June 2026 |
 | [20](https://leetcode.com/problems/valid-parentheses/) | Valid Parentheses | 🟢 Easy | Stack | O(n) | O(n) | — |
 | [21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists | 🟢 Easy | Linked List | O(n) | O(1) | — |
 | [53](https://leetcode.com/problems/maximum-subarray/) | Maximum Subarray | 🟢 Easy | DP / Arrays | O(n) | O(1) | — |
