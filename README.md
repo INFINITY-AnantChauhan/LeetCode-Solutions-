@@ -31,7 +31,7 @@ leetcode-solutions/
 
 | Difficulty | Solved | Goal | Progress |
 |------------|--------|------|----------|
-| 🟢 Easy    | 2      | 200  |█░░░░░░░░░ 1% |
+| 🟢 Easy    | 3      | 200  |█░░░░░░░░░ 1.5% |
 | 🟡 Medium  | 0      | 120  | ░░░░░░░░░░ 0% |
 | 🔴 Hard    | 0      | 20   | ░░░░░░░░░░ 0% |
 | **Total**  | **2**  | **340** | — |
@@ -48,12 +48,12 @@ leetcode-solutions/
 | Two Pointers       | 0    | 0      | 0    |       |
 | Sliding Window     | 0    | 0      | 0    |       |
 | Binary Search      | 0    | 0      | 0    |       |
-| Linked List        | 0    | 0      | 0    |       |
+| Linked List        | 1    | 0      | 0    |       |
 | Stack / Queue      | 0    | 0      | 0    |       |
 | Trees              | 0    | 0      | 0    |       |
 | Graphs / BFS / DFS | 0    | 0      | 0    |       |
 | Dynamic Programming| 0    | 0      | 0    |       |
-| Recursion          | 0    | 0      | 0    |       |
+| Recursion          | 1    | 0      | 0    |       |
 | Sorting            | 0    | 0      | 0    |       |
 
 ---
@@ -64,7 +64,7 @@ leetcode-solutions/
 |---|-------|------------|-------|------|-------|------|
 | [1](https://leetcode.com/problems/two-sum/) | Two Sum | 🟢 Easy | HashMap | O(n) | O(n) | 1st June 2026 |
 | [20](https://leetcode.com/problems/valid-parentheses/) | Valid Parentheses | 🟢 Easy | Stack | O(n) | O(n) | 2nd June 2026 |
-| [21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists | 🟢 Easy | Linked List | O(n) | O(1) | — |
+| [21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists | 🟢 Easy | Linked List | O(n) | O(1) | 3rd June 2026 |
 | [53](https://leetcode.com/problems/maximum-subarray/) | Maximum Subarray | 🟢 Easy | DP / Arrays | O(n) | O(1) | — |
 | [70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | 🟢 Easy | DP | O(n) | O(1) | — |
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Best Time to Buy/Sell Stock | 🟢 Easy | Arrays | O(n) | O(1) | — |
