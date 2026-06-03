@@ -2,8 +2,8 @@
 
 > Solving one problem at a time. Consistency over intensity.
 
-![Progress](https://img.shields.io/badge/Easy-0%2F150-brightgreen)
-![Progress](https://img.shields.io/badge/Medium-0%2F100-orange)
+![Progress](https://img.shields.io/badge/Easy-3%2F200-brightgreen)
+![Progress](https://img.shields.io/badge/Medium-0%2F120-orange)
 ![Progress](https://img.shields.io/badge/Hard-0%2F20-red)
 ![Started](https://img.shields.io/badge/Started-June%202026-blue)
 
