@@ -2,7 +2,7 @@
 
 > Solving one problem at a time. Consistency over intensity.
 
-![Progress](https://img.shields.io/badge/Easy-4%2F200-brightgreen)
+![Progress](https://img.shields.io/badge/Easy-5%2F200-brightgreen)
 ![Progress](https://img.shields.io/badge/Medium-0%2F120-orange)
 ![Progress](https://img.shields.io/badge/Hard-0%2F20-red)
 ![Started](https://img.shields.io/badge/Started-June%202026-blue)
@@ -31,7 +31,7 @@ leetcode-solutions/
 
 | Difficulty | Solved | Goal | Progress |
 |------------|--------|------|----------|
-| 🟢 Easy    | 4      | 200  |██░░░░░░░░░ 2.0% |
+| 🟢 Easy    | 5      | 200  |██░░░░░░░░░ 2.5% |
 | 🟡 Medium  | 0      | 120  | ░░░░░░░░░░ 0% |
 | 🔴 Hard    | 0      | 20   | ░░░░░░░░░░ 0% |
 | **Total**  | **4**  | **340** | — |
@@ -52,7 +52,7 @@ leetcode-solutions/
 | Stack / Queue      | 1    | 0      | 0    |       |
 | Trees              | 0    | 0      | 0    |       |
 | Graphs / BFS / DFS | 0    | 0      | 0    |       |
-| Dynamic Programming| 1    | 0      | 0    |       |
+| Dynamic Programming| 2    | 0      | 0    |       |
 | Recursion          | 0    | 0      | 0    |       |
 | Sorting            | 0    | 0      | 0    |       |
 
@@ -66,7 +66,7 @@ leetcode-solutions/
 | [20](https://leetcode.com/problems/valid-parentheses/) | Valid Parentheses | 🟢 Easy | Stack | O(n) | O(n) | 2nd June 2026 |
 | [21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists | 🟢 Easy | Linked List | O(n) | O(1) | 3rd June 2026 |
 | [53](https://leetcode.com/problems/maximum-subarray/) | Maximum Subarray | 🟢 Easy | DP / Arrays | O(n) | O(1) | 4th June 2026 |
-| [70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | 🟢 Easy | DP | O(n) | O(1) | — |
+| [70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | 🟢 Easy | DP | O(n) | O(1) | 5th June 2026 |
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Best Time to Buy/Sell Stock | 🟢 Easy | Arrays | O(n) | O(1) | — |
 | [206](https://leetcode.com/problems/reverse-linked-list/) | Reverse Linked List | 🟢 Easy | Linked List | O(n) | O(1) | — |
 | [217](https://leetcode.com/problems/contains-duplicate/) | Contains Duplicate | 🟢 Easy | HashSet | O(n) | O(n) | — |
