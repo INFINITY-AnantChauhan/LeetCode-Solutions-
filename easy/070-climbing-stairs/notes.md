@@ -114,3 +114,7 @@ b = c      (current becomes new i-1)
 | 198 | House Robber | Same rolling DP pattern |
 | 746 | Min Cost Climbing Stairs | Climbing stairs + cost minimisation |
 | 509 | Fibonacci Number | This solution is Fibonacci with a shifted seed |
+
+
+## LeetCode Screenshot
+<img width="1919" height="867" alt="Screenshot 2026-06-05 085223" src="https://github.com/user-attachments/assets/c85d15af-f95b-49b9-8fbe-6b715e09fac4" />
